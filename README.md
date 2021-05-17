@@ -32,4 +32,4 @@ Lucas Anselmo Moraes Da Silva
 
 ## 🌎 LinkedIn
 
-<a href="https://www.linkedin.com/posts/lucas-anselmo-moraes-da-silva-543636161_certificado-flexbox-origamid-activity-6785630995182845953-IIxZ">Post no LinkedIn</a>
+<a href="https://www.linkedin.com/posts/lucas-anselmo-moraes-da-silva-543636161_certificado-css-grid-layout-activity-6800115234389401600-8a7N">Post no LinkedIn</a>
